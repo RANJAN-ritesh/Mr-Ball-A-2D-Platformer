@@ -44,5 +44,3 @@ Mr. Ball is a modern, visually rich 2D platformer built with Phaser.js. Guide yo
 Collect as many coins as possible and reach the flag in the shortest time. Each world offers new challenges and visual surprises. Can you master every map?
 
 ---
-
-**Mr. Ball** is ready for production. Enjoy the adventure! 
